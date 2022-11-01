@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+    margin-left: 160px;
+    margin-top: 25%;
+    margin-right: 90px;
+    margin-bottom: auto;
+    float: left;
+    
+}
+div.box {
+	width: 10px;
+	display: inline-block;
+    margin-bottom: 55px;
+} 
+h1{
+    text-align: center;
+}
+img{
+    margin-left: 5%;
+    width: 230px;
+}
